@@ -1,10 +1,18 @@
-<h1 align="center">Hi 👋 I'm Reza Mansouri</h1>
-
 <div align="center">  
    <a href="">
-      <img src="Animation Hello GIF by nicolaTV.gif" title="Click Me" width=100%>
+      <img src="/Rezamns assets/Gif(14).gif" width="30%" title="Click Me" >
    </a>
 </div>
+
+<!-- <h1 align="center">Hi 👋 I'm Reza Mansouri</h1> -->
+<h1 align="center">🦉 Good evening, I'm Reza</h1>
+
+
+### 🦉 My Avatar
+
+<p align="center">
+  <img src="/Rezamns assets/Gif(5).gif" width="100" alt="owl-logo"/>
+</p>
 
 <p align="center">
   🦉 Frontend Developer | Passionate Full-Stack Learner | Cybersecurity Enthusiast | Lazy but Motivated Programmer 😄  
@@ -18,14 +26,12 @@
 
 ## 🧩 About Me
 
-- 🧑‍💻 I'm Reza Mansouri, born in Tehran in 2000  
-- 🔭 Currently working on projects with Next.js and Django  
-- 🛠️ Practicing browser extension development and AES encryption  
-- 🕊️ I believe that when code comes from the heart, it makes a difference
-
-- 🧑‍💻 I’m a Frontend Developer
-- 🌐 Passionate about React, Next.js, and Django
-- 🎮 Love gaming, reading, movies, philosophy, and ancient Egyptian & Greek gods
+- 🧑‍💻 I'm Reza Mansouri, a Frontend Developer andsoftware engenier 
+- 🔭 Currently learning backend and improving my frontend skills to become a fullstack developer
+- 🌐 Passionate about Cybersecurity, AI and computer sauyence
+- 🛠️ Practicing new methodes and tecnologys to improve myself
+- 🎮 Love gaming in diffrent consoles and crossplay
+- 🕊️ I believe if you find a hobby that can make money for you, you dont have to work for the rest of your life
 - 🔒 Currently learning cybersecurity with Kali Linux
 
 ---
@@ -40,45 +46,48 @@
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress)
 
 ---
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Independent+Frontend+Developer;Owl+%26+Cryptography+Lover;Conquering+the+Backend+World..." alt="Typing SVG" />
+</p> -->
+<p align="center">
+  <img src="/Rezamns assets/Gif(6).gif" width="auto" alt="owl-logo"/>
+</p>
+
 
 ### 📊 My GitHub Stats
 
 ![Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rezamns&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rezamns&layout=compact&theme=tokyonight)
 
----
 
-### 🦉 My Avatar
 
 <p align="center">
-  <img src="https://img.icons8.com/ios-filled/100/owls.png" width="100" alt="owl-logo"/>
+  <img src="/Rezamns assets/Gif(11).gif" width="auto" alt="owl-logo"/>
 </p>
 
-
-<h1 align="center">🦉 Good evening, I'm Reza</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Independent+Frontend+Developer;Owl+%26+Cryptography+Lover;Conquering+the+Backend+World..." alt="Typing SVG" />
-</p>
-
----
-
-
+<!-- 
 <h2 align="center">🦉 Rezamns | Frontend Dev | Owl lover</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=monospace&color=00F7FF&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+dark+nest...;FrontEnd+%7C+React+%7C+CyberSec+Lover;I+build+webs+in+silence+like+an+Owl..." alt="Typing SVG" />
-</p>
+</p> -->
 
 ---
-
-
+<p align="center">
+  <img src="/Rezamns assets/Gif(2).gif" width="auto" alt="owl-logo"/>
+</p>
+ <p align="center">
+  <img src="/Rezamns assets/Gif(10).gif" width="auto" alt="owl-logo"/>
+</p>
+<p align="center">
+  <img src="/Rezamns assets/Gif(15).gif" width="auto" alt="owl-logo"/>
+</p>
+<p align="center">
+  <img src="/Rezamns assets/Gif(16).gif" width="auto" alt="owl-logo"/>
+</p>
 
 🦉 Philosophy:
 Code in silence, fly at night...
-
-
-
 
 ---
 
