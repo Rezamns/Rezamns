@@ -1,119 +1,93 @@
-<div align="center">
-  <h1>ⱧɆⱠⱠØ ₩ØⱤⱠĐ! 🌍</h1>
-</div>
+<h1 align="center">Hi 👋 I'm Reza Mansouri</h1>
 
 <div align="center">  
-   <a href="https://quantum-co.dev/about">
-      <img src="https://justmrnone.github.io/NeverEndingPong/animation.gif" title="Click Me" width=100%>
+   <a href="">
+      <img src="Animation Hello GIF by nicolaTV.gif" title="Click Me" width=100%>
    </a>
 </div>
 
+<p align="center">
+  🦉 Frontend Developer | Passionate Full-Stack Learner | Cybersecurity Enthusiast | Lazy but Motivated Programmer 😄  
+</p>
 
-**Pʀᴏɢʀᴀᴍᴍɪɴɢ Lᴀɴɢᴜᴀɢᴇꜱ**: <br>
-<div>
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/JS.gif" height=80 title="JavaScript"></a>
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/TS.gif" height=80 title="TypeScript"></a>
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Html.gif" height=80 title="HTML"></a>
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Rcss.png" height=70 title="CSS"></a>&nbsp;&nbsp;
-   <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="70" height="70" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=JavaScript+Developer;Frontend+Engineer;Owl+Lover+🦉;Learning+the+Backend+World" />
+</p>
 
-</div>
-<br> 
+---
 
-**Fʀᴀᴍᴇᴡᴏʀᴋꜱ & Lɪʙʀᴀʀɪᴇꜱ**: <br>
-<div>
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" title="Rest API"/>&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" title="React"/>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=bootstrap" height=55 title="Bootstrap"></a>&nbsp;&nbsp;
-<br>
-<br> 
-  
-**Dʙᴍꜱ & Wᴇʙ Sᴇʀᴠᴇʀ & Cɪ/Cᴅ & Cᴀᴄʜɪɴɢ​**: <br> 
-<div>
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/postgreSQL.png" height=60 title="PostgreSQL"></a>&nbsp;&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" title="MySQL"/>
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" title="GitHub"/>
-</div>
-<br>
+## 🧩 About Me
 
-**Tᴏᴏʟꜱ & Pʟᴀᴛꜰᴏʀᴍꜱ**: <br>
-<div>
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Linux.png" height=60 title="Linux"></a>&nbsp;
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Git.png" height=60 title="Git"></a>&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" title="Docker"/>&nbsp;&nbsp;
-</div>
-<br>
+- 🧑‍💻 I'm Reza Mansouri, born in Tehran in 2000  
+- 🔭 Currently working on projects with Next.js and Django  
+- 🛠️ Practicing browser extension development and AES encryption  
+- 🕊️ I believe that when code comes from the heart, it makes a difference
 
-## 🤘 Ａｂｏｕｔ Ｍｅ
+- 🧑‍💻 I’m a Frontend Developer
+- 🌐 Passionate about React, Next.js, and Django
+- 🎮 Love gaming, reading, movies, philosophy, and ancient Egyptian & Greek gods
+- 🔒 Currently learning cybersecurity with Kali Linux
 
-**Pʀᴏꜰᴇꜱꜱɪᴏɴ**: Fᴜʟʟ-Sᴛᴀᴄᴋ Sᴏꜰᴛᴡᴀʀᴇ Eɴɢɪɴᴇᴇʀ.🔧<br>
+---
 
-<div align="center">  
-      <img src="https://justmrnone.github.io/NeverEndingPong/logos/rainbow.gif" width=100%>
-</div>
-<div align="center">
-  
-**I** ᴀʟꜱᴏ ᴘᴏꜱᴛ ᴀʙᴏᴜᴛ **Sᴏꜰᴛᴡᴀʀᴇ Eɴɢɪɴᴇᴇʀɪɴɢ** ᴀɴᴅ **Qᴜᴀɴᴛᴜᴍ Iɴꜰᴏʀᴍᴀᴛɪᴏɴ** ᴏɴ ᴍʏ **Wᴇʙꜱɪᴛᴇ**. Cʜᴇᴄᴋ ɪᴛ ᴏᴜᴛ 👇 
+### 🛠️ Skills
 
-</div>
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress)
 
-<div align="center">
-<a href="https://www.quantum-co.dev" target="_blank" rel="noopener noreferrer"><img src="https://justmrnone.github.io/NeverEndingPong/logos/QC.png" title="Quantum-Co" width="300px"></a>
-</div>
+---
+
+### 📊 My GitHub Stats
+
+![Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rezamns&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rezamns&layout=compact&theme=tokyonight)
+
+---
+
+### 🦉 My Avatar
+
+<p align="center">
+  <img src="https://img.icons8.com/ios-filled/100/owls.png" width="100" alt="owl-logo"/>
+</p>
 
 
-<!--   <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/C.png" height=50 title="C"></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/C++.png" height=50 title="C++"></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Flask.png" height=50 title="Flask"></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/SQLite.png" height=50 title="SQLite"></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Jenkins.png" height=50 title="Jenkins"></a>&nbsp;&nbsp;
-  -->
+<h1 align="center">🦉 Good evening, I'm Reza</h1>
 
-<!-- <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Rust.png" height=50 title="Rust"></a>
-<a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/SQL.png" height=50 title="SQL"></a>
-<a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/(R).png" height=50 title="R"></a>
-<a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Sass.png" height=50 title="Sass(Syntactically Awesome Stylesheets)"></a>
-<a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/LESS.png" height=50 title="LESS(Leaner Style Sheets)"></a> -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Independent+Frontend+Developer;Owl+%26+Cryptography+Lover;Conquering+the+Backend+World..." alt="Typing SVG" />
+</p>
 
-<!--
-<a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/PI.png" height=50 title="Raspberry Pi"></a>
-<a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Arduino.png" height=50 title="Arduino"></a>
-<a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Prometheus.png" height=50 title="Prometheus"></a>
-<a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/grafana.png" height=50 title="Grafana"></a>
-<a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Kali-Shield.png" height=52 title="Kali Linux"></a>
--->
+---
 
-<!-- 
-<a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Pandas.png" height=50 title="Pandas"></a>
-<a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Matplotlib.png" height=50 title="Matplotlib"></a>
-<a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/bokeh.png" height=50 title="Bookeh"></a>
-<a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/nextjs.png" height=50 title="Nextjs"></a> -->
 
-<!-- <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/MySql.png" height=50 title="MySQL"></a>
-<a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Mongodb.png" height=50 title="Mongodb"></a> -->
-   
-<!-- <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Apache.png" height=50 title="Apache"></a> -->
-<!-- <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/jupyterlab.png" height=50 title="Jupyter"></a> -->
-<!--  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/npm.png" height=50 title="npm"></a> -->
-<!--  <a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Yarn.png" height=50 title="yarn"></a> -->
-<!--  <br>
-<a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/And-more.png" height=50 title="More.."></a>
-<a href="#"><img src="https://justmrnone.github.io/NeverEndingPong/logos/Oracle.png" height=50 title="Oracle"></a>
--->
+<h2 align="center">🦉 Rezamns | Frontend Dev | Owl lover</h2>
 
-<!--
-GitHub Actions, GitLab CI, Kubernetes, AWS.
-## 📜 Certifications 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=monospace&color=00F7FF&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+dark+nest...;FrontEnd+%7C+React+%7C+CyberSec+Lover;I+build+webs+in+silence+like+an+Owl..." alt="Typing SVG" />
+</p>
 
-### HarvardX Certifications 
+---
 
-[Kamyar Bashar's HarvardX Certificates.pdf](https://github.com/user-attachments/files/16071887/Kamyar.Bashar.s.HarvardX.Certificates.pdf)
 
-### Other Certifications 
 
-[Kamyar Bashar's Other Certifications.pdf](https://github.com/user-attachments/files/16071910/Kamyar.Bashar.s.Other.Certifications.pdf)
+🦉 Philosophy:
+Code in silence, fly at night...
 
-      <img src="https://justmrnone.github.io/NeverEndingPong/logos/divider-sumiekou.gif" title="Click Me" width=100%>
--->
-<!-- &nbsp;&nbsp; --> 
 
+
+
+---
+
+## 🧠 My Skill Set
+
+
+```txt
+Languages:     HTML | CSS | JavaScript | C# | C++ | Python | SQL
+Frontend:      React | Next.js | TailwindCSS
+Backend:       Django | SQLite (beginner)
+CMS:           WordPress
+Cybersecurity: Kali Linux | VPN | OpenVPN | Wireshark
